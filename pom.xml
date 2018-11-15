@@ -1,8 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.art.build.maven.simple</groupId>
-  <artifactId>com.art.build.maven.simple</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+   <version>0.0.1-SNAPSHOT</version>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
@@ -20,7 +19,6 @@
 		<repository>
 			<id>maven</id>
 			<name>testmaven</name>
-			<!--old one url>http://13.232.112.78:8081/artifactory/test123</ -->
 			<url>http://13.233.165.191:8081/artifactory/testmaven</url>
 		</repository>
 	 </distributionManagement>
