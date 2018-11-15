@@ -19,7 +19,7 @@
 		<repository>
 			<id>maven</id>
 			<name>testmaven</name>
-			<url>http://13.233.165.191:8081/artifactory/testmaven</url>
+			<url>http://13.233.165.191:8081/artifactory/test123</url>
 		</repository>
 	 </distributionManagement>
    <artifactId>myapp</artifactId>
